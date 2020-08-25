@@ -117,13 +117,14 @@ hr {
   display: grid;
   grid-template-columns: auto auto auto;
   margin-top: 5%;
-  padding-left: 3%;
-  padding-right: 5%;
+  padding-left: 8%;
+  padding-right: 6%;
   padding-bottom: 5%;
 }
 
 .image{
-  width: 100px;
+  width: 130px;
+  height: 130px;
 }
 
 .ButtonWrapper {
@@ -134,14 +135,14 @@ hr {
   border: none;
   color: white;
   font-weight: 550;
-  margin-top: 3%;
+  margin-top: 5%;
 }
 
 .grid-container2 {
   display: grid;
   grid-template-columns: auto auto auto;
   width: 30%;
-  margin-top: 20%;
+  margin-top: 16%;
 }
 .grid-item {
   background-color: rgba(255, 255, 255, 0.8);
@@ -151,6 +152,11 @@ hr {
 }
 
 h4 {
-  margin-right: 25%;
+  margin-right: 34%;
   color: black;
+  margin-top: 4%;
+}
+
+.Grid_image {
+  width:100px
 }
